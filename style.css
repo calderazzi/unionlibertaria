@@ -39,7 +39,7 @@ body {
   right: 40px;
 }
 .menu img {
-  width: 100px;
+  width: 70px;
   border-radius: 20px;
 }
 .menu-galeria {
@@ -78,7 +78,6 @@ li {
 h1 {
   font-size: 40px;
   color: black;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-weight: bolder;
 }
 
@@ -110,7 +109,6 @@ animation: vuelta 4s;
   font-size: 18px;
   font-weight: bolder;
   text-align: center;
-  font-family: cursive;
   color: black;
 
 }
@@ -146,7 +144,6 @@ animation: vuelta 4s;
   color: black;
   right: 30px;
   bottom: 200px;
-  font-family: cursive;
 }
 .amarillo {
   color: yellow;
@@ -170,7 +167,6 @@ animation: vuelta 4s;
   font-weight: bold;
   text-align: justify;
   color: black;
-  font-family: cursive;
 }
 span {
   font-size: 25px;
@@ -178,7 +174,6 @@ span {
 }
 h2 {
   text-decoration: underline;
-  font-family: cursive;
 }
 
 h3 a {
